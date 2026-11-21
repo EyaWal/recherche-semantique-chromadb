@@ -1,0 +1,47 @@
+# Personnages
+Frodo Baggins
+Samwise Gamgee
+Gandalf
+Aragorn
+Boromir
+Legolas
+Gimli
+Gollum
+Sauron
+Saruman
+Théoden
+Éowyn
+
+# Lieux
+The Shire
+Hobbiton
+Bree
+Rivendell
+Moria
+Lothlórien
+Fangorn Forest
+Isengard
+Helm's Deep
+Minas Tirith
+Osgiliath
+Mordor
+
+# Objets
+The One Ring
+Narsil
+Andúril
+Sting
+Glamdring
+Mithril-coat
+Phial of Galadriel
+Palantíri
+
+# Événements
+War of the Ring
+Council of Elrond
+Breaking of the Fellowship
+Battle of the Hornburg
+Siege of Gondor
+Battle of the Pelennor Fields
+The Scouring of the Shire
+The Black Gate Opens

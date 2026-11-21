@@ -1,0 +1,8 @@
+# Dépendances prévues pour le TP.
+# Installation volontairement différée.
+
+requests
+chromadb
+sentence-transformers
+jupyter
+pandas

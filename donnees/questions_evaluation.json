@@ -1,0 +1,372 @@
+[
+  {
+    "id": "Q01",
+    "question": "Où l’Anneau Unique a-t-il été forgé et pourquoi devait-il être détruit à cet endroit ?",
+    "categorie": "factuelle",
+    "documents_directement_pertinents": [
+      "The_One_Ring.txt",
+      "Mordor.txt",
+      "Frodo_Baggins.txt"
+    ],
+    "documents_lies": [
+      "Sauron.txt"
+    ],
+    "justification": "Ces documents décrivent la forge de l’Anneau à Orodruin, la condition nécessaire à sa destruction et le rôle de Frodo dans l’accomplissement de cette tâche.",
+    "references": [
+      {
+        "document": "The_One_Ring.txt",
+        "ligne": 10,
+        "passage": "Sauron forged the One Ring in the fires of Orodruin."
+      },
+      {
+        "document": "The_One_Ring.txt",
+        "ligne": 12,
+        "passage": "The Ring could only be destroyed in the fires where it had originally been forged."
+      },
+      {
+        "document": "Mordor.txt",
+        "ligne": 19,
+        "passage": "The One Ring would be forged in Mount Doom."
+      },
+      {
+        "document": "Frodo_Baggins.txt",
+        "ligne": 85,
+        "passage": "Gollum fell into the fire with the Ring, thus destroying the Ring."
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "question": "Comment Narsil est-elle devenue Andúril et quelle importance cette transformation a-t-elle pour Aragorn ?",
+    "categorie": "contextuelle",
+    "documents_directement_pertinents": [
+      "Andúril.txt",
+      "Narsil.txt",
+      "Aragorn.txt"
+    ],
+    "documents_lies": [
+      "Council_of_Elrond.txt",
+      "Rivendell.txt"
+    ],
+    "justification": "Les articles relient les fragments de Narsil à leur reforgement à Rivendell, au nom Andúril et à l’héritage d’Aragorn comme héritier d’Isildur.",
+    "references": [
+      {
+        "document": "Andúril.txt",
+        "ligne": 1,
+        "passage": "Andúril was the name for the sword Narsil after its reforging for Aragorn."
+      },
+      {
+        "document": "Andúril.txt",
+        "ligne": 12,
+        "passage": "Narsil was reforged by Elven smiths of Rivendell, and Aragorn renamed it Andúril."
+      },
+      {
+        "document": "Narsil.txt",
+        "ligne": 9,
+        "passage": "The shards were reforged as Andúril for Aragorn, heir of Isildur."
+      },
+      {
+        "document": "Aragorn.txt",
+        "ligne": 12,
+        "passage": "Elrond delivered to Aragorn the shards of Narsil as heirlooms of his House."
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "question": "Pourquoi le Conseil d’Elrond a-t-il conduit à la formation de la Communauté de l’Anneau ?",
+    "categorie": "contextuelle",
+    "documents_directement_pertinents": [
+      "Council_of_Elrond.txt",
+      "Frodo_Baggins.txt"
+    ],
+    "documents_lies": [
+      "Gandalf.txt",
+      "Breaking_of_the_Fellowship.txt"
+    ],
+    "justification": "Le Conseil décide du destin de l’Anneau, désigne Frodo comme porteur et organise un groupe de neuf marcheurs pour l’accompagner.",
+    "references": [
+      {
+        "document": "Council_of_Elrond.txt",
+        "ligne": 1,
+        "passage": "The main purpose of the council was to discuss what should be done with the One Ring."
+      },
+      {
+        "document": "Council_of_Elrond.txt",
+        "ligne": 26,
+        "passage": "Nine walkers would counter the Nine Riders."
+      },
+      {
+        "document": "Frodo_Baggins.txt",
+        "ligne": 58,
+        "passage": "Frodo volunteered to be the Ring-bearer, and a Fellowship was formed to protect him."
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "question": "Quelles décisions ont provoqué la rupture de la Communauté à Parth Galen ?",
+    "categorie": "contextuelle",
+    "documents_directement_pertinents": [
+      "Breaking_of_the_Fellowship.txt",
+      "Boromir.txt",
+      "Samwise_Gamgee.txt"
+    ],
+    "documents_lies": [
+      "Frodo_Baggins.txt",
+      "The_One_Ring.txt"
+    ],
+    "justification": "Les documents décrivent le choix entre Mordor et Minas Tirith, la tentative de Boromir de prendre l’Anneau et la séparation de Frodo et Sam du reste du groupe.",
+    "references": [
+      {
+        "document": "Breaking_of_the_Fellowship.txt",
+        "ligne": 5,
+        "passage": "They had to choose whether to go to Mordor or to Minas Tirith."
+      },
+      {
+        "document": "Breaking_of_the_Fellowship.txt",
+        "ligne": 5,
+        "passage": "Boromir attacked Frodo after asking him to lend him the Ring."
+      },
+      {
+        "document": "Boromir.txt",
+        "ligne": 18,
+        "passage": "Boromir attempted to persuade the Council to let him take the One Ring to Gondor."
+      },
+      {
+        "document": "Samwise_Gamgee.txt",
+        "ligne": 40,
+        "passage": "Sam was the only member of the Fellowship to remain with Frodo."
+      }
+    ]
+  },
+  {
+    "id": "Q05",
+    "question": "Quel rôle Samwise joue-t-il dans la réussite de la quête ?",
+    "categorie": "transversale",
+    "documents_directement_pertinents": [
+      "Samwise_Gamgee.txt",
+      "Frodo_Baggins.txt",
+      "The_One_Ring.txt",
+      "Mordor.txt"
+    ],
+    "documents_lies": [
+      "Breaking_of_the_Fellowship.txt"
+    ],
+    "justification": "La réponse nécessite de relier la fidélité de Sam, son rôle de compagnon, son port temporaire de l’Anneau et son aide à Frodo dans Mordor.",
+    "references": [
+      {
+        "document": "Samwise_Gamgee.txt",
+        "ligne": 1,
+        "passage": "Sam was the only one to remain with Frodo to the end of the journey."
+      },
+      {
+        "document": "Samwise_Gamgee.txt",
+        "ligne": 47,
+        "passage": "Sam took the Ring, rescued Frodo, and returned the Ring to him."
+      },
+      {
+        "document": "Frodo_Baggins.txt",
+        "ligne": 85,
+        "passage": "Sam rescued Frodo and the Hobbits reached the Crack of Doom."
+      },
+      {
+        "document": "The_One_Ring.txt",
+        "ligne": 39,
+        "passage": "Sam bore the Ring himself for a short time, but never gave in to its power."
+      },
+      {
+        "document": "Mordor.txt",
+        "ligne": 31,
+        "passage": "Frodo Baggins destroyed the One Ring and Mordor fell."
+      }
+    ]
+  },
+  {
+    "id": "Q06",
+    "question": "Comment les forces de Rohan ont-elles remporté la bataille du Hornburg ?",
+    "categorie": "factuelle",
+    "documents_directement_pertinents": [
+      "Battle_of_the_Hornburg.txt",
+      "Helm's_Deep.txt",
+      "Gandalf.txt"
+    ],
+    "documents_lies": [
+      "Saruman.txt",
+      "Fangorn_Forest.txt",
+      "Théoden.txt"
+    ],
+    "justification": "Les articles décrivent l’attaque d’Isengard, la défense du Hornburg, l’arrivée des renforts et l’intervention des Huorns.",
+    "references": [
+      {
+        "document": "Battle_of_the_Hornburg.txt",
+        "ligne": 1,
+        "passage": "The attacking Isengard-host was defeated by the Rohirrim led by Théoden and Erkenbrand."
+      },
+      {
+        "document": "Helm's_Deep.txt",
+        "ligne": 12,
+        "passage": "Helm’s Deep became the refuge of the Rohirrim and the keep was besieged."
+      },
+      {
+        "document": "Gandalf.txt",
+        "ligne": 94,
+        "passage": "Gandalf led the Westfold forces to the Deep, breaking the siege."
+      }
+    ]
+  },
+  {
+    "id": "Q07",
+    "question": "Pourquoi la bataille des Champs du Pelennor constitue-t-elle un tournant de la guerre ?",
+    "categorie": "transversale",
+    "documents_directement_pertinents": [
+      "Battle_of_the_Pelennor_Fields.txt",
+      "Minas_Tirith.txt",
+      "Siege_of_Gondor.txt",
+      "Éowyn.txt"
+    ],
+    "documents_lies": [
+      "Osgiliath.txt",
+      "Théoden.txt"
+    ],
+    "justification": "La bataille brise le siège de Minas Tirith, inflige une défaite majeure aux forces de Mordor et entraîne la mort du Roi-Sorcier.",
+    "references": [
+      {
+        "document": "Battle_of_the_Pelennor_Fields.txt",
+        "ligne": 1,
+        "passage": "The Battle of the Pelennor Fields was the greatest battle of the War of the Ring."
+      },
+      {
+        "document": "Minas_Tirith.txt",
+        "ligne": 23,
+        "passage": "The three armies were able to break the siege in the decisive Battle of the Pelennor Fields."
+      },
+      {
+        "document": "Siege_of_Gondor.txt",
+        "ligne": 1,
+        "passage": "The siege was broken by the Battle of the Pelennor Fields."
+      },
+      {
+        "document": "Éowyn.txt",
+        "ligne": 15,
+        "passage": "Éowyn slew the Witch-king with Merry’s aid."
+      }
+    ]
+  },
+  {
+    "id": "Q08",
+    "question": "Comment la géographie de Mordor influence-t-elle la stratégie de Sauron ?",
+    "categorie": "transversale",
+    "documents_directement_pertinents": [
+      "Mordor.txt",
+      "Minas_Tirith.txt",
+      "Osgiliath.txt",
+      "The_Black_Gate_Opens.txt"
+    ],
+    "documents_lies": [
+      "War_of_the_Ring.txt"
+    ],
+    "justification": "Ces documents relient les montagnes, les passages, le Black Gate, Osgiliath et Minas Tirith à la stratégie militaire de Sauron.",
+    "references": [
+      {
+        "document": "Mordor.txt",
+        "ligne": 7,
+        "passage": "Mordor was protected by three enormous mountain ridges."
+      },
+      {
+        "document": "Mordor.txt",
+        "ligne": 8,
+        "passage": "The Black Gate was built to control the north-western entrance."
+      },
+      {
+        "document": "Osgiliath.txt",
+        "ligne": 11,
+        "passage": "The eastern part of Osgiliath was occupied by Sauron’s forces."
+      },
+      {
+        "document": "Minas_Tirith.txt",
+        "ligne": 23,
+        "passage": "Minas Tirith was besieged after the crossings of Anduin were taken."
+      },
+      {
+        "document": "The_Black_Gate_Opens.txt",
+        "ligne": 6,
+        "passage": "The host approached Morannon, the Black Gate of Mordor."
+      }
+    ]
+  },
+  {
+    "id": "Q09",
+    "question": "Comment l’utilisation des palantíri a-t-elle influencé Saruman, Aragorn et Denethor ?",
+    "categorie": "transversale",
+    "documents_directement_pertinents": [
+      "Palantíri.txt",
+      "Saruman.txt",
+      "Gandalf.txt"
+    ],
+    "documents_lies": [
+      "Aragorn.txt",
+      "Minas_Tirith.txt"
+    ],
+    "justification": "Les documents présentent les palantíri comme des outils de communication et d’observation, puis montrent leurs effets différents sur Saruman et Denethor.",
+    "references": [
+      {
+        "document": "Palantíri.txt",
+        "ligne": 1,
+        "passage": "The palantíri were stones used in communication and to see across the world."
+      },
+      {
+        "document": "Palantíri.txt",
+        "ligne": 16,
+        "passage": "Saruman used his palantír and was eventually ensnared through it by Sauron."
+      },
+      {
+        "document": "Saruman.txt",
+        "ligne": 117,
+        "passage": "Saruman was seduced by Sauron while peering into the palantír."
+      },
+      {
+        "document": "Gandalf.txt",
+        "ligne": 101,
+        "passage": "Denethor clutched a palantír as he burned."
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "question": "Comment la Guerre de l’Anneau se prolonge-t-elle dans la Comté après la chute de Sauron ?",
+    "categorie": "contextuelle",
+    "documents_directement_pertinents": [
+      "War_of_the_Ring.txt",
+      "The_Scouring_of_the_Shire.txt",
+      "The_Shire.txt"
+    ],
+    "documents_lies": [
+      "Saruman.txt",
+      "Frodo_Baggins.txt"
+    ],
+    "justification": "Ces documents montrent que la fin de la guerre ne met pas immédiatement fin aux violences : Saruman contrôle la Comté avant sa libération par les Hobbits.",
+    "references": [
+      {
+        "document": "War_of_the_Ring.txt",
+        "ligne": 1,
+        "passage": "The War of the Ring was the great conflict at the end of the Third Age."
+      },
+      {
+        "document": "The_Scouring_of_the_Shire.txt",
+        "ligne": 7,
+        "passage": "A gang of Men had taken over Hobbiton and the Battle of Bywater followed."
+      },
+      {
+        "document": "The_Scouring_of_the_Shire.txt",
+        "ligne": 8,
+        "passage": "Saruman was the mysterious boss Sharkey controlling the Shire."
+      },
+      {
+        "document": "The_Shire.txt",
+        "ligne": 26,
+        "passage": "The Shire was liberated after Frodo, Sam, Merry and Pippin returned."
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+# Environnements Python
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Outils et caches Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers locaux et secrets
+.env
+.env.*
+!.env.example
+
+# Systèmes d'exploitation et éditeurs
+.DS_Store
+.vscode/
+.idea/
+
+# Données, bases vectorielles et résultats générés
+donnees/brutes/
+donnees/preparees/
+*.sqlite
+*.sqlite3
+*.db
+resultats/*
+!resultats/.gitkeep
+
+# Builds et distributions
+build/
+dist/
+*.egg-info/
