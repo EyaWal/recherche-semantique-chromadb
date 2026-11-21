@@ -30,6 +30,8 @@ htmlcov/
 # Données, bases vectorielles et résultats générés
 donnees/brutes/
 donnees/preparees/
+donnees/nettoyees/
+donnees/chromadb/
 *.sqlite
 *.sqlite3
 *.db
